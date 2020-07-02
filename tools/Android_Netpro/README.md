@@ -26,5 +26,8 @@ JAVA_PATH = "/usr/bin/java"
 ## How to use it?
 ~# python3 android_netpro.py apkfile.apk  
 
+## Interest in creating this type of tool by youself? I got you fam!
+You can follow the following blog post: N/A
+
 ## Tested .apk:
   reddit(v.2.25.0) [link](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2-26-3-release/reddit-2-26-3-android-apk-download/)
