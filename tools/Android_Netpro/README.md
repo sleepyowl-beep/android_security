@@ -19,9 +19,9 @@ More Details can be checked at: [Blogpost](https://android-developers.googleblog
 5. Once you install above tools, check the absolute path, by typing: which apktool & which java
 6. The result will be put at program  
 
-APKTOOL_PATH = "/usr/local/bin/apktool"
-UBERSIGNER_JAR = "./uber-apk-signer-1.1.0.jar"
-JAVA_PATH = "/usr/bin/java"
+APKTOOL_PATH = "/usr/local/bin/apktool"  
+UBERSIGNER_JAR = "./uber-apk-signer-1.1.0.jar"  
+JAVA_PATH = "/usr/bin/java"  
 
 ## How to use it?
 ~# python3 android_netpro.py apkfile.apk  
