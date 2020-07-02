@@ -14,10 +14,10 @@ More Details can be checked at: [Blogpost](https://android-developers.googleblog
 ## Prerequisite
 1. Install python-magic library: pip3 install python-magic  
 2. Make sure you have python version 3
-3. Make sure that apktool is installed in your machine, you can follow this step to do this: [Step](https://ibotpeaches.github.io/Apktool/install/)
+3. Make sure that apktool is installed in your machine, you can follow this step to do this: [Install](https://ibotpeaches.github.io/Apktool/install/)
 4. Make sure you install Java in your machine, Originally when I created this script I used Java 1.8.0_201
 5. Once you install above tools, check the absolute path, by typing: which apktool & which java
-6. The result will be put at program  
+6. The result of the command will be put inside the program source code  
 
 APKTOOL_PATH = "/usr/local/bin/apktool"  
 UBERSIGNER_JAR = "./uber-apk-signer-1.1.0.jar"  
