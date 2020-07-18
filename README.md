@@ -8,4 +8,3 @@
   ### Tools  
     1. Android-Netpro  
         => Python 3 scripts to automate proxy configuration on android 8+ environment  
-        Full details can be look at: N/A
